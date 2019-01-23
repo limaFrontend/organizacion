@@ -23,4 +23,4 @@ Intenta ser breve y conciso con el titulo (no más 70 letras es recomendable)
 En caso pertenezcas a alguna organización, déjanos aquí el nombre, enlace y una breve descripción de la misma.
 
 **Dejamos aquí una breve descripción de ti y lo que haces**
-Describe aquí una pequeña bio (40 palabras es lo recomendable)
+Describe aquí una pequeña biografia sobre ti. (40 palabras es lo recomendable)

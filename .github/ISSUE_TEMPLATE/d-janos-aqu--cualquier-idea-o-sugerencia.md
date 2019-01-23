@@ -17,5 +17,5 @@ assignees: ''
 
 **2. Dale un titulo a tu idea o sugerencia**
 
-**3. Describe brevemente lo que deseas sugerir o aportar a la comunidad y a ls eventos que organizamos**
+**3. Describe brevemente lo que deseas sugerir o aportar a la comunidad o a los eventos que organizamos**
 (Una descripción breve nos ayudara a entender rápido y a concretar tu idea o sugerencia)
