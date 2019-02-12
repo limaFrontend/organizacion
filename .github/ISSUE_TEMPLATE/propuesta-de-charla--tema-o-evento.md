@@ -1,11 +1,13 @@
 ---
 name: Propuesta de charla, tema o evento
 about: Describe aquí tu propuesta de charla, evento o tema que deseas aprender
-title: ''
+title: "[Inserte titulo aquí] - [indique un mes de ser necesario ejem: Diciembre 2019]"
 labels: CFP
 assignees: ''
 
 ---
+
+_Marque las opciones con una "x" ejemplo: - [x] opción_
 
 **¿Qué tipo de propuesta deseas realizar?**
 
