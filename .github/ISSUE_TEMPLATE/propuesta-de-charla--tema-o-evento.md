@@ -28,14 +28,14 @@ assignees: ''
 
 **¿Cuanto será la duración de tu propuesta?**
 
-- [ ] Aviso rápido (algunos minutos)
+- [ ] Aviso rápido (Algunos minutos)
 - [ ] 15 mins (Algo breve)
 - [ ] 30 / 45 mins  (Charla promedio)
 - [ ] 1 Hora (Evento extendido)
 - [ ] ¿Necesitas más tiempo? (poner tiempo aquí)
 
 **¿Cuál es el titulo de tu propuesta de evento o charla**
-Intenta ser breve y conciso con el titulo (no más 70 letras es recomendable)
+Intenta ser breve y conciso con el titulo (No más 70 letras es recomendable)
 
 **Describe de que se trata tu propuesta**
 (Un Máximo de 30 palabras es recomendable)
@@ -45,6 +45,7 @@ Intenta ser breve y conciso con el titulo (no más 70 letras es recomendable)
 - [ ] Cable HDMI
 - [ ] Cable VGA
 - [ ] Adaptador para MAC
+- [ ] Otro (Especifica aquí)
 
 **Vienes por tu cuenta o representas a alguna organización o empresa**
 En caso pertenezcas a alguna organización, déjanos aquí el nombre, enlace y una breve descripción de la misma.
