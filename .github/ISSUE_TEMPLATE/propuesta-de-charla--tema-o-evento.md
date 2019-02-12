@@ -1,6 +1,6 @@
 ---
 name: Propuesta de charla, tema o evento
-about: Describe aquí tu propuesta de charla o tema que deseas aprender
+about: Describe aquí tu propuesta de charla, evento o tema que deseas aprender
 title: ''
 labels: CFP
 assignees: ''
