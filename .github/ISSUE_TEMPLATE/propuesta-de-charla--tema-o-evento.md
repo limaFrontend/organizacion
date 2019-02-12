@@ -34,7 +34,7 @@ assignees: ''
 - [ ] 1 Hora (Evento extendido)
 - [ ] ¿Necesitas más tiempo? (poner tiempo aquí)
 
-**¿Cuál es el titulo de tu propuesta de evento o charla**
+**¿Cuál es el titulo de tu propuesta de evento o charla?**
 Intenta ser breve y conciso con el titulo (No más 70 letras es recomendable)
 
 **Describe de que se trata tu propuesta**
@@ -47,11 +47,11 @@ Intenta ser breve y conciso con el titulo (No más 70 letras es recomendable)
 - [ ] Adaptador para MAC
 - [ ] Otro (Especifica aquí)
 
-**Vienes por tu cuenta o representas a alguna organización o empresa**
+**¿Vienes por tu cuenta o representas a alguna organización o empresa?**
 En caso pertenezcas a alguna organización, déjanos aquí el nombre, enlace y una breve descripción de la misma.
 
-**Déjanos aquí  un enlace de tu red social favorita o tu e-mail para que sea fácil contactarte**
-(twitter/facebook/linkedin/e-mail)
-
-**Dejamos aquí una breve descripción de ti y lo que haces**
+**Dejamos tus nombres y una breve descripción de ti y lo que haces**
 Describe aquí una pequeña biografía sobre ti. (40 palabras es lo recomendable)
+
+**Déjanos un enlace de tu red social favorita o tu e-mail para que sea fácil contactarte**
+(twitter/facebook/linkedin/e-mail)
