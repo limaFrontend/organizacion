@@ -31,7 +31,7 @@ Los siguientes 12 valores son el núcleo de la organización y permiten a su vez
 
 - Hacer que la comunidad **limafrontend** sea un medio de difusión abierto y público.
 - Hacer mención y propaganda de cómo luchar con toda forma de privilegiado, discriminación y exclusión en las organizaciones y comunidades.
-- Alentar e incluir a más ciudades y regiones a formar comunidades, a organizarse para compartir y a generar desarrollo y nuevas oportunidades.
+- Alentar e incluir a más ciudades y regiones a formar comunidades, a organizarse para compartir, generar más desarrollo y nuevas oportunidades.
 - Difundir y fomentar el libre acceso a la información, aprendizaje, tecnologías, metodologías de trabajo y sus buenas prácticas.
 - Mantener una libre y constante participación de todas las personas en aportes, ideas y sugerencias
 - Medir datos en base a encuestas y preguntas, para tomar mejores decisiones en cuanto a lo que lo que el público necesita.
