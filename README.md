@@ -8,7 +8,7 @@ Todo ello lo haremos al alentar y permitir incluir a más ciudades y regiones a 
 
 También, queremos generar desarrollo y crecimiento constantes a través de la educación y tecnología.
 
-## Valores nucleo de la comunidad**
+## Nucleo de valores de la comunidad
 
 Los siguientes 12 valores son el núcleo de la organización y permiten a su vez establecer los propósitos por los cuales las comunidades pueden mantener claros sus objetivos de servicio y bien social. Así mismo, los primeros 6 establecen la forma en cómo construimos una relación entre nosotros mismos como individuos y los siguientes 6 hacen lo mismo hacia los demás como sociedad.
 
