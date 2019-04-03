@@ -29,7 +29,7 @@ Los siguientes 12 valores son el núcleo de la organización y permiten a su vez
 - Respeto
 - Tolerancia
 
-## Principios que debemos a respetar y mantener
+## Principios que debemos respetar y mantener
 
 - Hacer que la comunidad LimaFrontend sea un medio de difusión abierto y público.
 - Hacer mención y propaganda de cómo luchar con toda forma de privilegiado, discriminación y exclusión en las organizaciones y comunidades.
