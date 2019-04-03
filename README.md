@@ -6,7 +6,7 @@ Compartir y difundir el libre acceso y aprendizaje sobre diseño, programación 
 
 Todo ello lo haremos al alentar y permitir incluir a más ciudades y regiones a formar comunidades bajo el formato siguiente: 
 ```
-(Nombre de ciudad)(nombre de tópico) ejemplo: limafrontend
+(Nombre de ciudad)(Nombre de tópico) ejemplo: limafrontend
 ```
 Finalmente, queremos generar desarrollo y crecimiento constantes a través de la educación y tecnología.
 
