@@ -2,9 +2,9 @@
 
 ## Nuestro Propósito
 
-Compartir y difundir el libre acceso y aprendizaje sobre diseño, programacion y tecnologia. Para generar más oportunidades de desarrollo y crecimiento en nuestra ciudad y País. 
+Compartir y difundir el libre acceso y aprendizaje sobre diseño, programación y tecnología. Para generar más oportunidades de desarrollo y crecimiento en nuestra ciudad y País. 
 
-Todo ello lo haremos al alentar y permitir incluir a más ciudades y regiones a formar comunidades con el mismo tópico.
+Todo ello lo haremos al alentar y permitir incluir a más ciudades y regiones a formar comunidades con el mismo tópico y bajo el mismo formato <ciudad><tópico>
 
 También, queremos generar desarrollo y crecimiento constantes a través de la educación y tecnología.
 
