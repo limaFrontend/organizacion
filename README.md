@@ -1,6 +1,6 @@
 # Manifiesto de la Comunidad
 
-**Nuestro Propósito**
+## Nuestro Propósito
 
 Compartir y difundir el libre acceso y aprendizaje sobre diseño, programacion y tecnologia. Para generar más oportunidades de desarrollo y crecimiento en nuestra ciudad y País. 
 
@@ -8,7 +8,7 @@ Todo ello lo haremos al alentar y permitir incluir a más ciudades y regiones a 
 
 También, queremos generar desarrollo y crecimiento constantes a través de la educación y tecnología.
 
-**Valores nucleo de la comunidad**
+## Valores nucleo de la comunidad**
 
 Los siguientes 12 valores son el núcleo de la organización y permiten a su vez establecer los propósitos por los cuales las comunidades pueden mantener claros sus objetivos de servicio y bien social. Así mismo, los primeros 6 establecen la forma en cómo construimos una relación entre nosotros mismos como individuos y los siguientes 6 hacen lo mismo hacia los demás como sociedad.
 
@@ -25,7 +25,7 @@ Los siguientes 12 valores son el núcleo de la organización y permiten a su vez
 - Respeto
 - Tolerancia
 
-**Principios que debemos a respetar y mantener**
+## Principios que debemos a respetar y mantener**
 
 - Hacer que la comunidad LimaFrontend sea un medio de difusión abierto y público.
 - Hacer mención y propaganda de cómo luchar con toda forma de privilegiado, discriminación y exclusión en las organizaciones y comunidades.
