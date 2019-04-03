@@ -34,7 +34,7 @@ Los siguientes 12 valores son el núcleo de la organización y permiten a su vez
 - Alentar e incluir a más ciudades y regiones a formar comunidades, a organizarse para compartir, generar más desarrollo y nuevas oportunidades.
 - Difundir y fomentar el libre acceso a la información, aprendizaje, tecnologías, metodologías de trabajo y sus buenas prácticas.
 - Mantener una libre y constante participación de todas las personas en aportes, ideas y sugerencias
-- Medir datos en base a encuestas y preguntas, para tomar mejores decisiones en cuanto a lo que lo que el público necesita.
+- Medir datos en base a encuestas y preguntas, para tomar mejores decisiones en cuanto a lo que el público necesita.
 - Mantener la privacidad de la información recolectada a excepción de la brindada a los sponsors, para la asistencia y seguridad de los eventos.
 - Buscar formas no lucrativas de cómo generar auspicios, recursos y financiamiento para los eventos y actividades de la comunidad.
 - Facilitar todo material técnico e información necesaria para los asistentes.
