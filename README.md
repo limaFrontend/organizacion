@@ -4,13 +4,11 @@
 
 Compartir y difundir el libre acceso y aprendizaje sobre diseño, programación y tecnología. Para generar más oportunidades de desarrollo y crecimiento en nuestra ciudad y País. 
 
-Todo ello lo haremos al alentar y permitir incluir a más ciudades y regiones a formar comunidades bajo el mismo formato 
-
+Todo ello lo haremos al alentar y permitir incluir a más ciudades y regiones a formar comunidades bajo el formato siguiente: 
 ```
 (Nombre de ciudad)(nombre de tópico) ejemplo: limafrontend
 ```
-
-También, queremos generar desarrollo y crecimiento constantes a través de la educación y tecnología.
+Finalmente, queremos generar desarrollo y crecimiento constantes a través de la educación y tecnología.
 
 ## Nucleo de valores de la comunidad
 
