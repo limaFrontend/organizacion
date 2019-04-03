@@ -1,4 +1,4 @@
-# Manifiesto de la Comunidad
+# Manifiesto de la Comunidad Lima Frontend
 
 ## Nuestro Propósito
 
