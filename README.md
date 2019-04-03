@@ -39,6 +39,6 @@ Los siguientes 12 valores son el núcleo de la organización y permiten a su vez
 - Buscar formas no lucrativas de cómo generar auspicios, recursos y financiamiento para los eventos y actividades de la comunidad.
 - Facilitar todo material técnico e información necesaria para los asistentes.
 - Facilitar la ayuda posible a los ponentes para los eventos o charlas.
-- Todas las personas son responsables de mantener y velar por estos principios.
+- Todas las personas somos responsables de mantener y velar por estos principios.
 
 
