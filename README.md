@@ -1,4 +1,4 @@
-# Manifiesto de la comunidad "Lima Frontend"
+# Manifiesto de la comunidad Lima Frontend
 
 ## Nuestro Propósito
 
